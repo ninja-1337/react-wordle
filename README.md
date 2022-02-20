@@ -135,7 +135,7 @@ _Want to add one to the list? Just make a pull request or [let us know via a com
 
 - In [.env](.env):
   - Update the title and the description
-  - Set the `REACT_APP_LOCALE_STRING` to your locale
+  - Set the `REACT_APP_LOCALE_STRING` to [your locale code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 - In [public/index.html](public/index.html):
   - Update the "You need to enable JavaScript" message
   - Update the language attribute in the HTML tag
